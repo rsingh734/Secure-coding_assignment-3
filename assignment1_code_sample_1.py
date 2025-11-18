@@ -3,7 +3,7 @@ import pymysql
 from urllib.request import urlopen
 
 db_config = {
-    'host': 'mydatabase.com',
+    'host': 'mydatabases.com',
     'user': 'admin',
     'password': 'secret123'
 }
